@@ -48,7 +48,9 @@ return true, {
     "em~)nwuqerQIrBt",
     "~diTB-~,UJHwDM;",
     "~diTB-~,UJHwDM;",
-    "EO7oPas?stry2[]@T",
+    "PmK1vOsJk:1-l!t",
+    "{[::mY>l>ES&F*>",
+    "=_^e}Ob?!XP9Kh]",
     "5<2Jn5Us-:(vt)",
     ",rdOFy-PnM.X+Hi",
     "JvhfeAG*f-iWc^8Y",
@@ -65,8 +67,9 @@ return true, {
     "Rz1J!CRI1%3nM",
     "JKJ)-7=F+ZAN$6(i",
     "g+s9Hu{Bm>@fuR",
-    "pm8+s)nObfQ!+j]8[", --Eric_neverdie
-    "UNS-mz8yW^UXIT", --Eric_newrebirth
-    "4Fd*sw6qM4ZWB)Gq*", --Eric_isbackl
-    "-OO%q{M7DaEf72J", --Ericgodbless
+    "pm8+s)nObfQ!+j]8[",
+    "UNS-mz8yW^UXIT",
+    "4Fd*sw6qM4ZWB)Gq*",
+    "-OO%q{M7DaEf72J",
+    "@&De8phP)aOHuH",
 }
